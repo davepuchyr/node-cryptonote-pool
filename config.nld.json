@@ -61,7 +61,7 @@
         "interval": 600,
         "maxAddresses": 50,
         "mixin": 3,
-        "transferFee":    15000000000,
+        "transferFee":              0,
         "minPayment":    500000000000,
         "denomination": 1000000000000
     },
